@@ -1,3 +1,6 @@
 4x M3 screws
 4x M3 nuts
 A 3D printer
+
+Every part must be printed once.
+Except spacing.stl, this part must be printed 4 times
